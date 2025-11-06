@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPAPIgetpendingorder", "SAPAPIgetpendingorder\SAPAPIgetpendingorder.csproj", "{D1A9C9A6-B057-4C48-8A61-10B539CF5DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A9C9A6-B057-4C48-8A61-10B539CF5DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A9C9A6-B057-4C48-8A61-10B539CF5DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A9C9A6-B057-4C48-8A61-10B539CF5DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A9C9A6-B057-4C48-8A61-10B539CF5DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B985F44E-CB4A-426D-915D-5C51D9F0A28F}
+	EndGlobalSection
+EndGlobal
