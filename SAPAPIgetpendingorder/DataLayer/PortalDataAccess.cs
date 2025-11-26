@@ -22,7 +22,6 @@ namespace SAPAPIgetpendingorder.DataLayer
         {
             var url = "https://tvsm.prod.apimanagement.in30.hana.ondemand.com:443/PRD/Spares_Pending_Order_DTL_API";
 
-            // Replace with your actual Bearer token
             string bearerToken = await TokenManager.GetToken();
 
             _httpClient.DefaultRequestHeaders.Clear();
