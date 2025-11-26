@@ -13,7 +13,7 @@ namespace SAPAPIgetpendingorder.DataLayer
 
         private DbConnector()
         {
-            _destination = RfcDestinationManager.GetDestination("PRD");
+            _destination = RfcDestinationManager.GetDestination("QAS");
             _destination.Ping();
             Console.WriteLine("Connection successful!");
         }
@@ -72,3 +72,4 @@ namespace SAPAPIgetpendingorder.DataLayer
         }
     }
 }
+//dbconnector
